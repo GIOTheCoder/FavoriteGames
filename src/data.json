@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "img": "modern-warfare.jpeg",
+        "publisher": "activision",
+        "title": "modern warfare",
+        "yearReleased": 2019
+    },
+
+    {
+        "id": 2,
+        "img": "god-of-war.jpg",
+        "publisher": "sony santa monica",
+        "title": "god of war: ragnarok",
+        "yearReleased": 2022
+    },
+
+    {
+        "id": 3,
+        "img": "titanfall-2.jpg",
+        "publisher": "respawn games",
+        "title": "titanfall 2",
+        "yearReleased": 2016
+    },
+
+    {
+        "id": 4,
+        "img": "gta-san-andreas.jpg",
+        "publisher": "rockstar games",
+        "title": "grand theft auto san andreas",
+        "yearReleased": 2004
+    },
+
+    {
+        "id": 5,
+        "img": "def-jam-ffny.jpg",
+        "publisher": "ea games",
+        "title": "def jam fight for ny",
+        "yearReleased": 2004
+    }
+
+
+
+]
